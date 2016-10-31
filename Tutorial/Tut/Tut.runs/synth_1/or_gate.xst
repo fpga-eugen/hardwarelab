@@ -1,0 +1,9 @@
+set -loop_iteration_limit 1000
+run
+-ifn or_gate.prj
+-top or_gate
+-p xc3s500efg320-4
+-ofn or_gate.ngc
+-opt_mode speed
+-opt_level 1
+-netlist_hierarchy rebuilt

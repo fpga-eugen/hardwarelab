@@ -1,0 +1,8 @@
+V3 3
+FL C:/Hardwarepraktikum/Tutorial/Tut/Tut.srcs/sources_1/imports/src/or_gate.vhd 2016/10/25.14:15:09 P.20131013
+EN work/or_gate 1477870800 \
+      FL C:/Hardwarepraktikum/Tutorial/Tut/Tut.srcs/sources_1/imports/src/or_gate.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/or_gate/structure 1477870801 \
+      FL C:/Hardwarepraktikum/Tutorial/Tut/Tut.srcs/sources_1/imports/src/or_gate.vhd \
+      EN work/or_gate 1477870800
